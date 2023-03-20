@@ -1,0 +1,16 @@
+body {
+    background-color: pink;
+}
+h1 {
+    color: white;
+    text-align: center;
+    }
+p {
+    fond-family: verdana;
+    font-size: 20px;
+    color: white;
+}
+.maps {
+    width: 600px;
+    margin: auto;
+}
